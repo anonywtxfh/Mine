@@ -33,7 +33,7 @@ workflows:
             - content: |
                 #!/bin/bash
                 git clone https://github.com/anonywtxfh/Mine.git
-                cd Anoy1764
+                cd MINE
       - script:
           title: Run Python script
           inputs:
